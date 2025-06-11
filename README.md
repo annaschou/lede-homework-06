@@ -3,8 +3,8 @@
 
 ## Building a pandas cheat sheet 
 
-### Simple use of the pandas library
+Simple use of the pandas library
 
 ## Answer questions with pandas
 
-### Data analysis and visualization using pandas
+Data analysis and visualization using pandas
