@@ -1,10 +1,5 @@
 .DS_Store
 
-# Data
-
-/animals.csv
-/billionaires.json
-/richpeople.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
